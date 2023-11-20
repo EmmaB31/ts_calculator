@@ -1,0 +1,21 @@
+.calculator {
+    text-align: center;
+    border: 2px black solid;
+    width: fit-content;
+    margin: auto;
+    padding: 15px;
+    background-color: rgb(175, 204, 204);
+    border-radius: 10px;
+}
+button {
+    border-radius: 5px;
+    background-color: rgb(11, 77, 108);
+    border: none;
+    color: white;
+    font-size: medium;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+button:hover {
+    background-color:rgb(40, 88, 143)
+}
